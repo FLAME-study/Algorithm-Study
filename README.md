@@ -62,7 +62,9 @@ Remove: 파일, 폴더 삭제
 
 |Name|Github|Language|Goal|
 |---|:---:|:---:|:---:|
+|LHK|[<img src="https://avatars.githubusercontent.com/HakyoungLEE" width="75px;">](https://github.com/HakyoungLEE)|<span><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></span>|No text|
 |KDW|[<img src="https://avatars.githubusercontent.com/dongwoodev" width="75px;">](https://github.com/dongwoodev)|<span><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></span>|SON said "기본기가 탄탄해야 성공한다."|
+|MHS|[<img src="https://avatars.githubusercontent.com/solso318" width="75px;">](https://github.com/solso318)|<span><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></span>|No text|
 
 
 ### 💻 More info
