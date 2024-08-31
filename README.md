@@ -4,6 +4,21 @@ Passionate about algorithms and eager to improve skils!
 
 ## 📝 Study
 
+### 📚 Syllabus
+
+|Date|Lecture|presenter|
+|---|:---:|:---:|
+|08.31|Brute Force, Recursion|@KDW|
+|09.07|Math algorithm basic|@MHS|
+|09.14|asymptotic notation|@LHK|
+|08.31|Stack, Queue, Deck|@MHS|
+|09.07|Heap, Binary Heap|@LHK|
+|09.14|Hashing|@KDW|
+|09.21|Sorting||
+|09.28|Binary Tree||
+|10.05|Review||
+
+
 ### 📅 Meeting Date
 We meet every **Saturday at 9:30 AM**. 
 The meeting is will be held online via **Zoom☀️**. 
@@ -60,8 +75,8 @@ Remove: 파일, 폴더 삭제
 
 ## 🫂 Members
 
-|Name|Github|Language|Goal|
-|---|:---:|:---:|:---:|
+|Name|Github|Language|
+|---|:---:|:---:|
 |LHK|[<img src="https://avatars.githubusercontent.com/HakyoungLEE" width="75px;">](https://github.com/HakyoungLEE)|<span><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></span>|No text|
 |KDW|[<img src="https://avatars.githubusercontent.com/dongwoodev" width="75px;">](https://github.com/dongwoodev)|<span><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></span>|SON said "기본기가 탄탄해야 성공한다."|
 |MHS|[<img src="https://avatars.githubusercontent.com/solso318" width="75px;">](https://github.com/solso318)|<span><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></span>|No text|
