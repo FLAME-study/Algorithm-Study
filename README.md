@@ -8,9 +8,9 @@ Passionate about algorithms and eager to improve skils!
 
 |Date|Lecture|presenter|
 |---|:---:|:---:|
-|08.31|Brute Force, Recursion|@KDW|
-|09.07|Math algorithm basic|@MHS|
-|09.14|asymptotic notation|@LHK|
+|07.27|Brute Force, Recursion|@KDW|
+|08.03|Math algorithm basic|@MHS|
+|08.10|asymptotic notation|@LHK|
 |08.31|Stack, Queue, Deck|@MHS|
 |09.07|Heap, Binary Heap|@LHK|
 |09.14|Hashing|@KDW|
